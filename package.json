@@ -42,13 +42,13 @@
     "short-uuid": "^3.1.0"
   },
   "devDependencies": {
-    "@types/crypto-js": "^3.1.43",
+    "@types/crypto-js": "^4.2.2",
     "microbundle": "^0.9.0",
     "typescript": "^3.2.4"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Developer-Amit/react-aws-s3.git"
+    "url": "git+https://github.com/ay5000/react-aws-s3.git"
   },
   "bugs": {
     "url": "https://github.com/Developer-Amit/react-aws-s3/issues"
